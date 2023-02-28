@@ -2,7 +2,7 @@
     "RepoInfo":{
         "Img": "https://raw.githubusercontent.com/Apexofacircle/GitShopProduct1/main/GitShopInfo.json",
         "Name" : "bat",
-        "Discription" : "Placeholder Lorem Blablabla",
+        "Description" : "Placeholder Lorem Blablabla",
         "Download" : "link to download"
     }
 }
