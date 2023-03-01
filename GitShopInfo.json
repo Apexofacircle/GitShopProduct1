@@ -1,8 +1,15 @@
 {
-    "RepoInfo":{
+    "Card1":{
+        "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
+        "Name" : "bat",
+        "Description" : "Placeholder Lorem Blablabla",
+        "Download" : "link to download"
+    },
+
+    "Card2":{
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "bat",
         "Description" : "Placeholder Lorem Blablabla",
         "Download" : "link to download"
     }
-}w
+}
