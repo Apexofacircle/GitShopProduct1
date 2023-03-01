@@ -7,9 +7,9 @@
     },
 
     "Card2":{
-        "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
-        "Name" : "bat",
-        "Description" : "Placeholder Lorem Blablabla",
+        "Image": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
+        "Name" : "Card2",
+        "Description" : "Placeholder Lorem",
         "Download" : "link to download"
     }
 }
