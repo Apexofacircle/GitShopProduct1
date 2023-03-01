@@ -7,7 +7,7 @@
     },
 
     "Card2":{
-        "Image": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
+        "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "Card2",
         "Description" : "Placeholder Lorem",
         "Download" : "link to download"
