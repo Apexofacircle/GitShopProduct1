@@ -3,7 +3,7 @@
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "Product1",
         "Description" : "Placeholder Lorem Blablabla",
-        "DetailedDescription" : "Detailed_Description",
+        "DetailedDescription" : "Detailed_Description1",
         "Download" : "link to download"
     },
 
@@ -12,7 +12,7 @@
         "Name" : "Product2",
         "Description" : "Placeholder Lorem",
         "Download" : "link to download",
-        "DetailedDescription" : "Detailed_Description"
+        "DetailedDescription" : "Detailed_Description2"
 
     },
 
@@ -20,7 +20,7 @@
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "Product3",
         "Description" : "Placeholder Lorem",
-        "DetailedDescription" : "Detailed_Description",
+        "DetailedDescription" : "Detailed_Description3",
         "Download" : "link to download"
     },
 
@@ -28,7 +28,15 @@
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "Product4",
         "Description" : "Placeholder Lorem",
-        "DetailedDescription" : "Detailed_Description",
+        "DetailedDescription" : "Detailed_Description4",
+        "Download" : "link to download"
+    },
+    
+    "Product5":{
+        "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
+        "Name" : "Product5",
+        "Description" : "Placeholder Lorem",
+        "DetailedDescription" : "Detailed_Description4",
         "Download" : "link to download"
     }
 }
