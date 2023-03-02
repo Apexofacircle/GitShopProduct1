@@ -1,23 +1,34 @@
 {
-    "Card1":{
+    "Product1":{
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
-        "Name" : "bat",
+        "Name" : "Product1",
         "Description" : "Placeholder Lorem Blablabla",
         "Detailed_Description" : "Detailed_Description",
         "Download" : "link to download"
     },
 
-    "Card2":{
+    "Product2":{
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
-        "Name" : "Card2",
+        "Name" : "Product2",
         "Description" : "Placeholder Lorem",
+        "Download" : "link to download",
+        "Detailed_Description" : "Detailed_Description"
+
+    },
+
+    "Product3":{
+        "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
+        "Name" : "Product3",
+        "Description" : "Placeholder Lorem",
+        "Detailed_Description" : "Detailed_Description",
         "Download" : "link to download"
     },
 
-    "Card3":{
+    "Product4":{
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
-        "Name" : "Card2",
+        "Name" : "Product4",
         "Description" : "Placeholder Lorem",
+        "Detailed_Description" : "Detailed_Description",
         "Download" : "link to download"
     }
 }
