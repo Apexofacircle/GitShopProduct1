@@ -4,7 +4,8 @@
         "Name" : "Product1",
         "Description" : "Placeholder Lorem Blablabla",
         "DetailedDescription" : "Detailed_Description1",
-        "Download" : "link to download"
+        "Download" : "link to download",
+        "Source" : "example.com"
     },
 
     "Product2":{
@@ -12,8 +13,8 @@
         "Name" : "Product2",
         "Description" : "Placeholder Lorem",
         "Download" : "link to download",
-        "DetailedDescription" : "Detailed_Description2"
-
+        "DetailedDescription" : "Detailed_Description2",
+        "Source" : "example.com"
     },
 
     "Product3":{
@@ -21,7 +22,8 @@
         "Name" : "Product3",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description3",
-        "Download" : "link to download"
+        "Download" : "link to download",
+        "Source" : "example.com"
     },
 
     "Product4":{
@@ -29,7 +31,8 @@
         "Name" : "Product4",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description4",
-        "Download" : "link to download"
+        "Download" : "link to download",
+        "Source" : "example.com"
     },
     
     "Product5":{
@@ -37,6 +40,7 @@
         "Name" : "Product5",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description4",
-        "Download" : "link to download"
+        "Download" : "link to download",
+        "Source" : "example.com"
     }
 }
