@@ -4,17 +4,17 @@
         "Name" : "Product1",
         "Description" : "Placeholder Lorem Blablabla",
         "DetailedDescription" : "Detailed_Description1",
-        "Download" : "link to download",
-        "Source" : "example.com"
+        "Download" : "www.example.com",
+        "Source" : "www.example.com"
     },
 
     "Product2":{
         "Img": "https://github.com/Apexofacircle/GitShopProduct1/raw/main/IMG_0242.jpg",
         "Name" : "Product2",
         "Description" : "Placeholder Lorem",
-        "Download" : "link to download",
+        "Download" : "www.example.com",
         "DetailedDescription" : "Detailed_Description2",
-        "Source" : "example.com"
+        "Source" : "www.example.com"
     },
 
     "Product3":{
@@ -31,8 +31,8 @@
         "Name" : "Product4",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description4",
-        "Download" : "link to download",
-        "Source" : "example.com"
+        "Download" : "www.example.com",
+        "Source" : "www.example.com"
     },
     
     "Product5":{
@@ -40,7 +40,7 @@
         "Name" : "Product5",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description4",
-        "Download" : "link to download",
-        "Source" : "example.com"
+        "Download" : "www.example.com",
+        "Source" : "www.example.com"
     }
 }
