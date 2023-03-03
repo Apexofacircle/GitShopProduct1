@@ -22,8 +22,8 @@
         "Name" : "Product3",
         "Description" : "Placeholder Lorem",
         "DetailedDescription" : "Detailed_Description3",
-        "Download" : "link to download",
-        "Source" : "example.com"
+        "Download" : "www.example.com",
+        "Source" : "www.example.com"
     },
 
     "Product4":{
